@@ -1,0 +1,11 @@
+/* Write CSS Here */
+body {
+	text-align: center;
+    background-color: black;
+}
+.background, h1 {
+	font-size: 40px;
+	font-weight: bold;
+	 color: white;
+}
+    
